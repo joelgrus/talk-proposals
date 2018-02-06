@@ -25,31 +25,31 @@ Anyone with basic programming knowledge should be able to benefit from the talk.
 * (1 minute) about livecoding
 * (21 minutes) there are 25 Advent of Code problems, I plan to spend ~50 seconds on each one: (10 seconds the problem, 10 seconds the solution, 30 seconds "what I learned") (50 seconds * 25 problems = 1250 seconds = 21 minutes). Here's a rough overview of the "what I learned"s
 
-** Day 1: the `zip(xs, xs[1:])` trick
-** Day 2: n^2 algorithms are sometimes OK
-** Day 3: simplify before coding
-** Day 4: Pythonic anagram finding
-** Day 5: when to slice-copy your input lists
-** Day 6: itertools
-** Day 7: recursive data structures
-** Day 8: data modeling with NamedTuples
-** Day 9: state machines
-** Day 10: immutable state machines
-** Day 11: make sure to run `mypy`!
-** Day 12: finding your inner graph problem
-** Day 13: when to simulate and when not to
-** Day 14: reusing interview whiteboard problems
-** Day 15: understanding bit arithmetic
-** Day 16: looking for shortcuts
-** Day 17: recognizing special cases
-** Day 18: knowing when to throw it all out and start over
-** Day 19: hiding your error checking inside abstractions
-** Day 20: sometimes it's ok to just guess
-** Day 21: cache your work
-** Day 22: using sparse representations
-** Day 23: learning to fail
-** Day 24: using tuple sorting to your advantage
-** Day 25: putting it all together
+* Day 1: the `zip(xs, xs[1:])` trick
+* Day 2: n^2 algorithms are sometimes OK
+* Day 3: simplify before coding
+* Day 4: Pythonic anagram finding
+* Day 5: when to slice-copy your input lists
+* Day 6: itertools
+* Day 7: recursive data structures
+* Day 8: data modeling with NamedTuples
+* Day 9: state machines
+* Day 10: immutable state machines
+* Day 11: make sure to run `mypy`!
+* Day 12: finding your inner graph problem
+* Day 13: when to simulate and when not to
+* Day 14: reusing interview whiteboard problems
+* Day 15: understanding bit arithmetic
+* Day 16: looking for shortcuts
+* Day 17: recognizing special cases
+* Day 18: knowing when to throw it all out and start over
+* Day 19: hiding your error checkig inside abstractions
+* Day 20: sometimes it's ok to just guess
+* Day 21: cache your work
+* Day 22: using sparse representations
+* Day 23: learning to fail
+* Day 24: using tuple sorting to your advantage
+* Day 25: putting it all together
 
 * (5 minutes) grand overall lessons
 * (1 minute) thanks!
